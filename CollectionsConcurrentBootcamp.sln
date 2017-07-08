@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsConcurrentBootcamp", "CollectionsConcurrentBootcamp\CollectionsConcurrentBootcamp.csproj", "{BE18D88C-04B0-4618-9696-3BAED5A02A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE18D88C-04B0-4618-9696-3BAED5A02A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE18D88C-04B0-4618-9696-3BAED5A02A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE18D88C-04B0-4618-9696-3BAED5A02A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE18D88C-04B0-4618-9696-3BAED5A02A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
